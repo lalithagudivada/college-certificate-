@@ -1,0 +1,185 @@
+body{
+    background-image: linear-gradient(to right, rgb(199, 247, 110) , rgb(240, 118, 189));
+  }
+marquee{
+    font-weight:800px;
+    color:red;
+    font-family: sans-serif;
+    
+  }
+
+
+form{
+    align-items: center;
+    padding: 10px;
+   
+    padding-bottom: 10px;
+    border: 3px white solid; 
+    height: 370px;
+    width:300px;
+    border-radius: 7px;
+}
+center{
+    padding-top: 50px;
+
+}
+.div{
+    padding :10px;
+    align-items: left;
+}
+.indiv{
+    padding: 10px;
+}
+select{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+   
+}
+h5{
+    padding-right: 140px;
+}
+.inline{
+    padding: 40px;
+}
+
+.form
+{
+    /* padding-left: 250px;
+    padding-top: 30px;
+    margin-top: 0px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* height: 550px;
+    width:500px; */
+    /* border-left-color: black; */
+}
+.main{
+   height: 550px;
+    width:1000px; 
+    /* align-items: right;  */
+    margin: auto;
+}
+/* table
+{
+    padding-left: 350px;
+    padding-top: 150px;
+} */
+
+/* .logof{
+    padding-left: 1550px;
+} */
+.logo{
+    padding-left: 250px; 
+}
+/* button{
+    padding-left: 5px;
+} */
+/* table{
+    padding-left: 1000px;
+    padding-top: 100px;
+} */
+ table{
+     /* padding-left: 1900px; */
+     
+     margin: auto; 
+}
+
+.slideimages{
+    padding-left: 300px;
+    padding-top: 200px;
+    width:500px;
+    height:500px;
+}
+.slideimages2
+{
+    padding-top: 200px;
+    padding-left: 400px;
+}
+.slideimages3{
+    padding-top: 200px;
+    padding-left: 400px;
+}
+
+form{
+    /* padding:10px 10px 10px 10px; */
+    /* margin-left: 550px; */
+    margin: auto;
+    margin-top: 50px;
+    
+    
+}
+
+.indiv{
+    padding: 10px;
+}
+
+h1{
+    margin-left: 40px;
+    /* margin-top: 50px;  */
+}
+/* body
+{
+    background-image: linear-gradient(pink,yellow,green);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+/* div
+{
+    background-color: white;
+    margin-left: 100px;
+} */
+.button
+{
+    color: blue;
+    /* width: 55px; */
+}
+input
+{
+    padding: 10px ;
+
+}
+.btn{
+    /* margin-left: 10px; */
+    padding-left: 50px;
+}
+/* .indivm{
+ padding: 50px;
+} */
+tr{
+    width:100px;
+    height: 30px;
+}
+td{
+    width: 100px;
+}
+.button-solid {
+    border: none;
+    color: red;
+    /* background-color: none; */
+}
+
+.picture{
+    width:150px;
+    height: 180px;
+}
+
+.menu select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+   
+}
+.menu select option{
+    padding:10px
+}
+
+
+
+
+
+
+
+
+
+
